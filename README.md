@@ -11,7 +11,9 @@ Suggest the tags based on the content that was there in the question posted on S
 
 ## Real World / Business Objectives and Constraints
 Predict as many tags as possible with high precision and recall.
+
 Incorrect tags could impact customer experience on StackOverflow.
+
 No strict latency constraints.
 
     Source: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/
